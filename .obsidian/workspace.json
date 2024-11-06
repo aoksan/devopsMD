@@ -164,19 +164,20 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "open-vscode:VSCode": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
-      "vscode-editor:Create Code File": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e1ba09682b420dbf",
+  "active": "80e05cb50df40ad3",
   "lastOpenFiles": [
-    "Welcome.md",
-    "Move Database Server.md"
+    "My code file.ts",
+    "Move Database Server.md",
+    "Welcome.md"
   ]
 }

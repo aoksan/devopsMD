@@ -1,3 +1,7 @@
+---
+version:
+  - v0.1gpt
+---
 ### 1. **Move DB**
 If you're moving a PostgreSQL database from one server to another, you can perform a dump of the database and restore it on the new server.
 
@@ -7,6 +11,7 @@ If you're moving a PostgreSQL database from one server to another, you can perfo
    pg_dump -U [username] -h [old_host] -F c -b -v -f /path/to/backup/file.dump [database_name]
    ```
    **Explanation:**
+
    - `pg_dump` creates a backup of the database.
    - `-U [username]` specifies the PostgreSQL username.
    - `-h [old_host]` is the host where the DB is located.

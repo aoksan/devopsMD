@@ -1,4 +1,6 @@
 [
   "obsidian-git",
-  "open-vscode"
+  "open-vscode",
+  "obsidian-style-settings",
+  "templater-obsidian"
 ]

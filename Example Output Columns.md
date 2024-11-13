@@ -1,7 +1,6 @@
 ---
 date: 2024-11-06T10:43:00.611Z
-version:
-  - v1.0
+version: v1.0
 ---
 
 # Example Output Columns of ```ps aux```
